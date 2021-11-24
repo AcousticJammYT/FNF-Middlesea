@@ -64,6 +64,9 @@ class CreditsState extends MusicBeatState
 		
 		#end
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
+			['FNF Middlesea'],
+			['AcousticJamm',		'acousticjamm',		'Main Programmer of FNF Middlesea',					'https://twitter.com/AcousticJamm',	'FFDD33'],
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'FFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'C30085'],
